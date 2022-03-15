@@ -24,5 +24,5 @@
    <img src="https://activity-graph.herokuapp.com/graph?username=jmazaia&custom_title=Jonathan%27s%20activity%20graph&theme=monokai&hide_border=true"/>
 </div>
 <br/>
-![Snake animation](https://github.com/rafaballerini/jmazaia/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jmazaia/jmazaia/blob/output/github-contribution-grid-snake.svg)
 </div>
