@@ -1,4 +1,3 @@
-## Oiii eu sou Jonathan Mazaia, desenvolvedor Back-End ! ##
 <div align="center">
   <a href="https://github.com/jmazaia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmazaia&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
