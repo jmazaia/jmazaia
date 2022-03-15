@@ -28,7 +28,7 @@
   <br/>
   
   <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=jmazaia&custom_title=Rodolfo%27s%20activity%20graph&theme=monokai&hide_border=true"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=jmazaia&custom_title=Jonathan%27s%20activity%20graph&theme=monokai&hide_border=true"/>
 </div>
   
 </div>
