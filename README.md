@@ -1,4 +1,4 @@
-## Oiii eu sou Jonathan Mazaia, desenvolvedor Back-End !
+## Oiii eu sou Jonathan Mazaia, desenvolvedor Back-End ! ##
 <div align="center">
   <a href="https://github.com/jmazaia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmazaia&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -17,7 +17,7 @@
 <div> 
   <a href = "mailto:jonathan_mazaia@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonathan-mazaia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- https://github.com/jmazaia/jmazaia/blob/output/github-contribution-grid-snake.svg
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]
  
 </div>
