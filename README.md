@@ -25,6 +25,5 @@
 </div>
 <br/>
  
-  ![Snake animation](https://github.com/jmazaia/jmazaia/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
