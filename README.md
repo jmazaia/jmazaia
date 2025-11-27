@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Hey+there!+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Full+Stack+Developer+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Hey+there!+I'm+Jonathan+Mazaia+%F0%9F%91%8B;Full+Stack+Developer+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
 </a>
 
 <!-- QUICK STATS BADGES -->
@@ -27,27 +27,23 @@
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Unicorn.png" width="200"/>
 
 ```yaml
-name: Your Name
-located_in: Your City, Country
-current_job: Your Role @ Company
-education:
-  - Your Degree, University
-  - Certifications
+name: Jonathan Mazaia
+located_in: Taubaté, Brazil
+current_role: Full Stack Developer
 
 fields_of_interest:
   - Web Development
-  - Cloud Architecture
   - AI/ML
   - Open Source
 
 currently_learning:
-  - "Something cutting-edge"
-  
+  - "AI & Large Language Models"
+
 hobbies:
-  - Gaming
-  - Reading
+  - Coding side projects
+  - Learning new technologies
   - Contributing to OSS
-  
+
 fun_fact: "I mass undefined more than I'd like to admit 🤫"
 ```
 
@@ -135,8 +131,6 @@ fun_fact: "I mass undefined more than I'd like to admit 🤫"
   </picture>
 </div>
 
-> 💡 **Pro tip:** To enable the snake animation, add the workflow file below to your profile repo!
-
 <br/>
 
 <!-- FEATURED PROJECTS -->
@@ -144,11 +138,11 @@ fun_fact: "I mass undefined more than I'd like to admit 🤫"
 
 <div align="center">
 
-<a href="https://github.com/jmazaia/project-1">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jmazaia&repo=project-1&theme=transparent&hide_border=true&title_color=00D9FF&text_color=c9d1d9&icon_color=BD00FF&bg_color=0d1117"/>
+<a href="https://github.com/jmazaia/steam-barrel">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jmazaia&repo=steam-barrel&theme=transparent&hide_border=true&title_color=00D9FF&text_color=c9d1d9&icon_color=BD00FF&bg_color=0d1117"/>
 </a>
-<a href="https://github.com/jmazaia/project-2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jmazaia&repo=project-2&theme=transparent&hide_border=true&title_color=00D9FF&text_color=c9d1d9&icon_color=BD00FF&bg_color=0d1117"/>
+<a href="https://github.com/jmazaia/portfolio">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jmazaia&repo=portfolio&theme=transparent&hide_border=true&title_color=00D9FF&text_color=c9d1d9&icon_color=BD00FF&bg_color=0d1117"/>
 </a>
 
 </div>
@@ -158,29 +152,13 @@ fun_fact: "I mass undefined more than I'd like to admit 🤫"
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-<!-- SPOTIFY / NOW PLAYING -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="35"/> &nbsp;Vibing To
-
-<div align="center">
-
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR-SPOTIFY-ID)
-
-*↑ My current jam (updates live!)*
-
-</div>
-
-<br/>
-
 <!-- CONNECT -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35"/> &nbsp;Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR-TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR-ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathan-mazaia)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmazaia)
 
 </div>
 
