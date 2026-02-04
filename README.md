@@ -89,8 +89,8 @@ fun_fact: "I mass undefined more than I'd like to admit 🤫"
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35"/> &nbsp;GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jmazaia&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=BD00FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmazaia&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jmazaia&theme=github_dark" alt="GitHub Stats" />
+  <img width="41%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jmazaia&theme=github_dark" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -101,7 +101,7 @@ fun_fact: "I mass undefined more than I'd like to admit 🤫"
 
 <!-- TROPHY CASE -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jmazaia&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmazaia&theme=github_dark" width="100%" alt="Profile Details"/>
 </div>
 
 <br/>
